@@ -16,6 +16,7 @@ app.factory('RandomGreetings', function () {
         'Hello, David!',
         'Hello, Rafi!',
         'Hello, 1511!',
+        'Hello, Woofy!',
         ':D',
         'Yes, I think we\'ve met before.',
         'Gimme 3 mins... I just grabbed this really dope frittata',
