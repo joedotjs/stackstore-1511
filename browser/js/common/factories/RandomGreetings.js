@@ -13,6 +13,7 @@ app.factory('RandomGreetings', function () {
         'This empty string is for Lindsay Levine.',
         'こんにちは、ユーザー様。',
         'Welcome. To. WEBSITE.',
+        'Hello, David!',
         'Hello, Rafi!',
         'Hello, 1511!',
         ':D',
